@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03.Ara.2018, 17:25:18
+    Author     : RAMAZHAN
+*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    height: 300px;
+}
+.container{
+    width: 94%;
+    margin: auto;
+}
+footer {
+    background: #7682cc;
+    text-align: center;
+    padding: 120px 0;
+    
+}
+footer .footer-box{
+    width: 33.3333%;
+    margin: auto;
+}
+footer .footer-box p{
+    color: #fff;
+    font-size: 18px;
+}
+footer .footer-box .fa{
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 0.5em 0.6em;
+    margin: 5px;
+    font-size: 20px;
+}

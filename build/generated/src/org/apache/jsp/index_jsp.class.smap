@@ -1,0 +1,22 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 header.jsp
+header.jsp
++ 2 gövde.jsp
+gövde.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,13:51
+5#1,33:64
+17#0,3:96
+5#2,73:99
+19#0,81:171
+5#3,29:252
+99#0,3:280
+*E
